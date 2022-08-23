@@ -5,4 +5,5 @@
 - 📫 How to reach me by oldschool gsm text message on a smartphone...
 
 michael.toudal/toudal is a ✨ special ✨ repository because its `README.md` appears on the GitHub profile.
-We can click the links and to take a look at changes.
+<br>
+We can click the links and to take a look at various information and changes.
